@@ -1,0 +1,5 @@
+streamlit
+transformers
+torch
+scipy
+soundfile  # Optional: handles audio-related edge cases better than scipy alone
